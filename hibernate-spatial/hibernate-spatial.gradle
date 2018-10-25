@@ -35,7 +35,7 @@ dependencies {
 
     testRuntime( libraries.expression_language )
 
-    testRuntime('jaxen:jaxen:1.1')
+    testRuntime('jaxen:jaxen:1.1.4')
     testRuntime(libraries.byteBuddy)
 }
 
