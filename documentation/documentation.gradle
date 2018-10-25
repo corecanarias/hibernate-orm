@@ -42,7 +42,7 @@ dependencies {
 	compile( project( ':hibernate-core' ) )
 	annotationProcessor( project( ':hibernate-jpamodelgen' ) )
 
-	testCompile( 'org.apache.commons:commons-lang3:3.4' )
+	testCompile( 'org.apache.commons:commons-lang3:3.8.1' )
 
 	testCompile( project(':hibernate-envers') )
 	testCompile( project(':hibernate-spatial') )
