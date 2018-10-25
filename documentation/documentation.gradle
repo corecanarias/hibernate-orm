@@ -50,7 +50,7 @@ dependencies {
 
 	testCompile( project(':hibernate-testing') )
 
-	testCompile "org.osgi:org.osgi.core:4.3.1"
+	testCompile "org.osgi:org.osgi.core:6.0.0"
 
 	testCompile( libraries.mockito )
 	testCompile( libraries.mockito_inline )
