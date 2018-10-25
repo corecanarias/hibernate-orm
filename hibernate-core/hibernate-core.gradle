@@ -78,7 +78,7 @@ dependencies {
     // for testing stored procedure support
     testCompile( libraries.derby )
 
-    testRuntime( "org.jboss.spec.javax.ejb:jboss-ejb-api_3.2_spec:1.0.0.Final" )
+    testRuntime( "org.jboss.spec.javax.ejb:jboss-ejb-api_3.2_spec:1.0.1.Final" )
     testRuntime( libraries.expression_language )
     testRuntime( 'jaxen:jaxen:1.1' )
     testRuntime( libraries.javassist )
