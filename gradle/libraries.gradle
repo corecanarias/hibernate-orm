@@ -77,7 +77,7 @@ ext {
             // jaxb task
             // Strangely, jaxb-runtime 2.2.11 depends on jaxb-api 2.2.12-b140109.1041
             jaxb_api: 'javax.xml.bind:jaxb-api:2.2.12-b140109.1041',
-            jaxb_runtime: 'org.glassfish.jaxb:jaxb-runtime:2.2.11',
+            jaxb_runtime: 'org.glassfish.jaxb:jaxb-runtime:2.3.2',
             jaxb_xjc: 'org.glassfish.jaxb:jaxb-xjc:2.2.11',
             // Note that jaxb2_basics is a set of tools on *top* of JAXB.
             // See https://github.com/highsource/jaxb2-basics
