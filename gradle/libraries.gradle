@@ -41,7 +41,7 @@ ext {
             ant:            'org.apache.ant:ant:1.8.2',
 
             // Antlr
-            antlr:          'antlr:antlr:2.7.7',
+            antlr:          'antlr:antlr:20030911',
 
             // Annotations
             commons_annotations: "org.hibernate.common:hibernate-commons-annotations:${hibernateCommonsVersion}",
