@@ -8,4 +8,4 @@ repositories {
 	mavenLocal(  )
 }
 
-jdbcDependency 'com.microsoft.sqlserver:mssql-jdbc:6.4.0.jre8'
+jdbcDependency 'com.microsoft.sqlserver:mssql-jdbc:6.4.0.jre9'
